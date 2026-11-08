@@ -1,0 +1,7 @@
+# Core functionality
+/src/app.py                   @PuneethKumarMS
+/src/backend/database.py      @PuneethKumarMS
+/src/backend/routers/auth.py  @PuneethKumarMS
+
+# Frontend assets
+/src/static/                  @PuneethKumarMS
