@@ -3,7 +3,8 @@ MongoDB database configuration and setup for Mergington High School API
 """
 
 from pymongo import MongoClient
-from argon2 import PasswordHasher, exceptions as argon2_exceptions
+from argon2 import PasswordHasher, exceptions as argon2_exceptions # password hashing utility
+
 
 # Connect to MongoDB
 client = MongoClient('mongodb://localhost:27017/')
